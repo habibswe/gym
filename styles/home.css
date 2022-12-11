@@ -1,0 +1,30 @@
+button {
+
+    width: 100%;
+    color: darkred;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+
+}
+
+.btn_hp {
+
+	width: 160px;
+	height: 544px;
+	margin: 20px;
+	background-color: transparent;
+	border: none;
+
+}
+
+.middle {
+
+	width: 714px;
+	height: 504px;
+	margin: 40px;
+	border: none;
+}
+
